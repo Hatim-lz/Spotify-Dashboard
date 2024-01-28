@@ -5,8 +5,6 @@
 </div>
 <br>
 
-<hr>
-
 * Firstly, we downloaded the dataset from Kaggle. Subsequently, using Python, we initiated a preprocessing phase to ensure data quality. To enrich the dataset, a column with __album cover URLs__ was incorporated by connecting to the __Spotify for Developer API__, also through Python. 
 
 * On the design front, we crafted a template in PowerPoint, experimenting with hues, transparencies, and lighting effects. This template was later imported into Power BI as the canvas background. 
