@@ -3,7 +3,7 @@
       <summary><h1 style="display: inline-block;"> Spotify PowerBI Dashboard </h1></summary>
     </ul>
 </div>
-<br>
+<hr>
 
 * Firstly, we downloaded the dataset from Kaggle. Subsequently, using Python, we initiated a preprocessing phase to ensure data quality. To enrich the dataset, a column with __album cover URLs__ was incorporated by connecting to the __Spotify for Developer API__, also through Python. 
 
